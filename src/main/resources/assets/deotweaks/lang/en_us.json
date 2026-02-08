@@ -1,0 +1,13 @@
+{
+  "itemGroup.deotweaks": "Example Mod Tab",
+  "block.deotweaks.example_block": "Example Block",
+  "item.deotweaks.example_item": "Example Item",
+
+  "deotweaks.configuration.title": "DeoTweaks Configs",
+  "deotweaks.configuration.section.deotweaks.common.toml": "DeoTweaks Configs",
+  "deotweaks.configuration.section.deotweaks.common.toml.title": "DeoTweaks Configs",
+  "deotweaks.configuration.items": "Item List",
+  "deotweaks.configuration.logDirtBlock": "Log Dirt Block",
+  "deotweaks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "deotweaks.configuration.magicNumber": "Magic Number"
+}
